@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mk4uever
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...GCP
-- 💞️ I’m looking to collaborate on ...GCP, Azure & Contanerization (Docker/kubernetes), Postgress SQL
+- 👀 I’m interested in ... passionate coder
+- 🌱 I’m currently learning ... Elementry knowledge on GCP, Azure
+- 💞️ I’m looking to collaborate on ...GCP, Azure & Contanerization (Docker/kubernetes), Postgress SQL, JavaScript, REST APIs etc.
 - 📫 How to reach me ... mks.singh001@gmail.com & +91-8197031888
 
 <!---
